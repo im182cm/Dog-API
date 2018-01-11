@@ -1,5 +1,7 @@
 package philip.com.dogapi.model.dto;
 
+import android.support.annotation.VisibleForTesting;
+
 /**
  * Created by Philip on 2018. 1. 8..
  */
@@ -22,5 +24,11 @@ public class BaseDTO<T> {
 
     public T getMessage() {
         return message;
+    }
+
+    @VisibleForTesting
+    public BaseDTO(String status, T message) {
+        this.status = status;
+        this.message = message;
     }
 }
