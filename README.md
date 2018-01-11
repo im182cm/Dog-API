@@ -8,11 +8,14 @@ Personal studying project. I am still working on.
 - RxJava2
 - Glide
 - Retrofit2
+#### For Test
+- MockWebServer
+- JUnit4
 
 ### Used Pattern
 - MVP
 
-### Working on
+### Still working on
 - Dagger2
 - JUnit
 - Mokito
