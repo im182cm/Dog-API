@@ -22,4 +22,4 @@ Personal studying project. I am still working on.
 - Espresso
 
 ### Screen Shots
-![blob/Screenshot1.jpg]
+![ScreenShot1](https://github.com/im182cm/Dog-API/blob/master/Screenshot1.jpg)
