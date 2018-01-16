@@ -22,4 +22,4 @@ Personal studying project. I am still working on.
 - Espresso
 
 ### Screen Shots
-[[../Screenshot1.jpg]]
+[[blob/Screenshot1.jpg]]
