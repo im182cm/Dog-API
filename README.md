@@ -22,4 +22,6 @@ Personal studying project. I am still working on.
 - Espresso
 
 ### Screen Shots
-![ScreenShot1](https://github.com/im182cm/Dog-API/blob/master/Screenshot1.jpg)![ScreenShot2](https://github.com/im182cm/Dog-API/blob/master/Screenshot2.jpg)![ScreenShot3](https://github.com/im182cm/Dog-API/blob/master/Screenshot3.jpg)
+<img src="https://github.com/im182cm/Dog-API/blob/master/Screenshot1.jpg" width="300">
+<img src="https://github.com/im182cm/Dog-API/blob/master/Screenshot2.jpg" width="300">
+<img src="https://github.com/im182cm/Dog-API/blob/master/Screenshot4.jpg" width="300">
