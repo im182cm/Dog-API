@@ -20,3 +20,6 @@ Personal studying project. I am still working on.
 - JUnit
 - Mokito
 - Espresso
+
+### Screen Shots
+![GitHub Logo](/ScreenShot1.jpg)
