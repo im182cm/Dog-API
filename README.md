@@ -22,4 +22,4 @@ Personal studying project. I am still working on.
 - Espresso
 
 ### Screen Shots
-![GitHub Logo](/ScreenShot1.jpg)
+![ScreenShot1](../Screenshot1.jpg)
