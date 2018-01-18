@@ -8,16 +8,18 @@ Personal studying project. I am still working on.
 - RxJava2
 - Glide
 - Retrofit2
+- Dagger2
+- Leak Canary
+- OkHttp
 #### For Test
 - MockWebServer
 - JUnit4
 
 ### Used Pattern
 - MVP
+- DI
 
 ### Still working on
-- Dagger2
-- JUnit
 - Mokito
 - Espresso
 
