@@ -3,12 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="philip.com.dogapi.view.SplashActivity">
+    tools:context="philip.com.dogapi.mvp.splash.SplashActivity">
 
     <ImageView
         android:id="@+id/splashIV"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        android:contentDescription="@string/app_name"
         android:layout_centerInParent="true"
         android:layout_gravity="center" />
 
@@ -20,6 +21,6 @@
         android:layout_centerHorizontal="true"
         android:text="@string/app_name"
         android:textColor="@color/color_000000"
-        android:textSize="20dp" />
+        android:textSize="20sp" />
 
 </RelativeLayout>

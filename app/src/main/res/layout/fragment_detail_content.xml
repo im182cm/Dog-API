@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="philip.com.dogapi.view.DetailContentFragment">
+    tools:context="philip.com.dogapi.mvp.detail.DetailImageFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
